@@ -1,0 +1,3 @@
+Software é feito para resolver problemas, e é impossível especificar problemas de forma definitiva, à medida que o software entra no ambiente de uso, esse ambiente será modificado pelo mesmo. Além do ambiente, o software também pode necessitar de modificações.
+
+Isso garante que um software “nunca” esteja “completamente” pronto e consequentemente o seu cliente/usuário não estará “eternamente” satisfeito, ou se estiver será uma satisfação momentânea ou inicial. Por esse motivo, o processo de desenvolvimento de software é complexo e abrange várias etapas, assim é necessário um bom planejamento para garantir a qualidade de produto e a capacidade de adaptação.
